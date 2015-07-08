@@ -1,6 +1,10 @@
 {
-  "name": "angular-viewport-watch",
-  "version": "0.0.0",
+  "name": "ee-angular-viewport-watch",
+  "version": "0.1.4-pre",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EE/angular-viewport-watch.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "coveralls": "^2.10.0",
@@ -8,5 +12,12 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/EE/angular-viewport-watch/blob/master/LICENSE"
+    }
+  ]
 }

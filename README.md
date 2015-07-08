@@ -1,3 +1,13 @@
+Note
+================
+This package is a fork of [angular-viewport-watch](https://github.com/shahata/angular-viewport-watch/) and it's not guaranteed to be maintained actively.
+
+It has been published to NPM so that a package with fixes by [Laboratorium EE organization members](http://github.com/EE/) could be installed reliably. 
+
+`npm install --save ee-angular-viewport-watch`
+
+----------------
+
 Angular Viewport Watch [![Build Status](https://travis-ci.org/shahata/angular-viewport-watch.svg?branch=master)](https://travis-ci.org/shahata/angular-viewport-watch) [![Coverage Status](https://coveralls.io/repos/shahata/angular-viewport-watch/badge.png?branch=master)](https://coveralls.io/r/shahata/angular-viewport-watch?branch=master)
 ================
 
